@@ -1,0 +1,5 @@
+{
+  "name": "Scratch Coordinate Master",
+  "description": "A gamified interactive tool for learning 2D Cartesian coordinate systems, featuring 4 difficulty levels from basic counting to Scratch-standard grid.",
+  "requestFramePermissions": []
+}
